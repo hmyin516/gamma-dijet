@@ -7,7 +7,7 @@ dijet：
   data:        ```/eos/user/w/wasu/AQT_dijet_data_bdt/dijet_data_bdt.root```  
 
 gammajet:   
-  monte carlo: ``` /eos/user/w/wasu/Gammajet/gammajet_sherpa_incl.root```
+  monte carlo: ``` /eos/user/w/wasu/Gammajet/gammajet_sherpa_incl.root```  
   data: ```/eos/user/w/wasu/Gammajet/gammajet_data_incl.root```
   
   run ROOT/ReadingTree python files to generate miniNtuples.  
