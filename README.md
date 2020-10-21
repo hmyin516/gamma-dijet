@@ -17,6 +17,9 @@ gammajet:
  
 ## Analysis Code
 Analysis Code is provided in each subfolder.
+
+## Current Progress
+The working repository is now at https://gitlab.cern.ch/atlas-jetetmiss/tagging/quarkgluontagging/qgscalefactors (limited access)
  
  
   
